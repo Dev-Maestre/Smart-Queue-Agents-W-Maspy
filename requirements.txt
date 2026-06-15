@@ -1,0 +1,6 @@
+maspy-ml
+numpy
+pandas
+matplotlib
+pygame
+tensorboardX

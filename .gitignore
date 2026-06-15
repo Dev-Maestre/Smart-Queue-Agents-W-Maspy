@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Ambientes virtuais
+.venv/
+venv/
+env/
+
+# Saidas de experimentos (regeneraveis)
+runs_output/
+runs/
+
+# IDE / OS
+.idea/
+.vscode/
+*.swp
+.DS_Store
+
+# Logs e secrets
+*.log
+.env
+.envrc
+
+# Testes / coverage
+.pytest_cache/
+.coverage
+htmlcov/
